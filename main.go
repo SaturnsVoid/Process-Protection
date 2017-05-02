@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/alepacheco/Process-Protection/process_protection"
+	"github.com/SaturnsVoid/Process-Protection/process_protection"
 )
 
 func main() {
