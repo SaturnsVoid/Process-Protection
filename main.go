@@ -3,12 +3,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/alepacheco/Process-Protection/process-protection"
+
+	"github.com/alepacheco/Process-Protection/process_protection"
 )
 
 func main() {
 	fmt.Println("This program will protect its-self.")
-	process-protection.Protect()
+	process_protection.Protect()
 	fmt.Println("Try killing me with a unelevated tool.")
 	for {
 	}

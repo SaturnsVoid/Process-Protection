@@ -1,4 +1,4 @@
-package process-protection
+package process_protection
 
 import (
 	"syscall"
